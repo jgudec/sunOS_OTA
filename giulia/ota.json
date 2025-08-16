@@ -1,10 +1,10 @@
 {
     "version": "varuna",
-    "date": "1752681840000",
+    "date": "1755369300000",
     "requiredDate": "0",
-    "url": "https://sourceforge.net/projects/sunos-giulia-builds/files/OTA/Sun-varuna-20250716-giulia-Unofficial.zip/download",
-    "id": "6db999aa9673a481026f5f3a7600ee160102869a",
-    "filename": "Sun-varuna-20250716-giulia-Unofficial.zip",
-    "filesize": "3100959040",
-    "md5": "3ccad1410b9ba54a28f125b71d6dabb7"
+    "url": "https://sourceforge.net/projects/sunos-giulia-builds/files/OTA/Sun-varuna-20250816-giulia-Unofficial.zip/download",
+    "id": "f6eac8b39f60d0a994d7bfe5904410caac2f201c",
+    "filename": "Sun-varuna-20250816-giulia-Unofficial.zip",
+    "filesize": "3051955422",
+    "md5": "8e782a0c71ab185eaa47734cad8b8b8b"
 }
